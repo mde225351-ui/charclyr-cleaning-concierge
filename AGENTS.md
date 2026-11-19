@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+Keep the Charclyr landing-page content in its root route, centralize editable brand and section copy in a reusable data module, and reference uploaded photography through asset pointers to keep business edits clear and assets lightweight.
